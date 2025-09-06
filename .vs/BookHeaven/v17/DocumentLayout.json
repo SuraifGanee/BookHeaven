@@ -1,0 +1,923 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|c:\\users\\hp\\desktop\\degree\\ad\\bookheaven\\bookheaven\\sales_clark_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\sales_clark_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\sales_clark_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\sales_clark_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\sellcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\sellcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\sellcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\sellcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\discoumtcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\discoumtcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\discoumtcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\discoumtcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\ordercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\ordercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\ordercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\ordercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\customercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\customercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\customercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\customercl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\authorcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\authorcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\authorcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\authorcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\bookcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\bookcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\bookcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\bookcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\customer_order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\customer_order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\supplier type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\supplier type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\supplier type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\supplier type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\stafftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\stafftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\stafftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\stafftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\commoncoding\\common_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\commoncoding\\common_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\commoncoding\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\commoncoding\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\commoncoding\\validation_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\commoncoding\\validation_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\commoncoding\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\commoncoding\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\customer_order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\customer_order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\bookheaven\\customer_order_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA5FB73-693E-4380-92B9-12ACF087879D}|BookHeaven\\BookHeaven.csproj|solutionrelative:bookheaven\\customer_order_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Authors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authors.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Authors.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authors.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Authors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:03:41.718Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Customer.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:59:54.238Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BOOk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\BOOk.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\BOOk.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\BOOk.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\BOOk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:35:28.285Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StaffType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\StaffType.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\StaffType.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\StaffType.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\StaffType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:56:01.844Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Staff.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Staff.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Staff.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:39:25.8Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Supplier Type.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier Type.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Supplier Type.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier Type.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Supplier Type.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:27:07.771Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Supplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Supplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:14:08.301Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Discount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Discount.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Discount.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Discount.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Discount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:48:14.117Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\OrderDetails.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\OrderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:45:12.829Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SalesDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\SalesDetails.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\SalesDetails.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\SalesDetails.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\SalesDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:47:47.827Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Dashboard.cs [Design]*",
+              "RelativeToolTip": "BookHeaven\\Admin_Dashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:47:41.317Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Report.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Report.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Report.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:59:23.421Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BOOk.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\BOOk.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\BOOk.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\BOOk.cs",
+              "RelativeToolTip": "BookHeaven\\BOOk.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAPkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:38:13.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bookcl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\bookcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\bookcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\bookcl.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\bookcl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:41:52.266Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bookcl.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\bookcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\bookcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\bookcl.cs",
+              "RelativeToolTip": "BookHeaven\\bookcl.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAxwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:46:43.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Program.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Program.cs",
+              "RelativeToolTip": "BookHeaven\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:28:39.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales_Clark_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sales_Clark_Dashboard.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Sales_Clark_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sales_Clark_Dashboard.cs [Design]*",
+              "RelativeToolTip": "BookHeaven\\Sales_Clark_Dashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:59:30.237Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Authorcl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authorcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Authorcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authorcl.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Authorcl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:00:02.845Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Authorcl.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authorcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Authorcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authorcl.cs",
+              "RelativeToolTip": "BookHeaven\\Authorcl.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:03:23.373Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "customercl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\customercl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\customercl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\customercl.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\customercl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:09:48.814Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Customer.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer.cs",
+              "RelativeToolTip": "BookHeaven\\Customer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAmwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:23:27.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "customercl.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\customercl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\customercl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\customercl.cs",
+              "RelativeToolTip": "BookHeaven\\customercl.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:12:32.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ordercl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Ordercl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Ordercl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Ordercl.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Ordercl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:29:37.992Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ordercl.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Ordercl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Ordercl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Ordercl.cs",
+              "RelativeToolTip": "BookHeaven\\Ordercl.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:33:38.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\OrderDetails.cs",
+              "RelativeToolTip": "BookHeaven\\OrderDetails.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAqwAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:23:51.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "discoumtcl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\discoumtcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\discoumtcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\discoumtcl.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\discoumtcl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:38:11.501Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "discoumtcl.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\discoumtcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\discoumtcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\discoumtcl.cs",
+              "RelativeToolTip": "BookHeaven\\discoumtcl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:39:08.659Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Discount.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Discount.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Discount.cs",
+              "RelativeToolTip": "BookHeaven\\Discount.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:41:50.326Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sellcl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sellcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Sellcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sellcl.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Sellcl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:42:03.406Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sellcl.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sellcl.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Sellcl.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sellcl.cs",
+              "RelativeToolTip": "BookHeaven\\Sellcl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:45:37.787Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SalesDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\SalesDetails.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\SalesDetails.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\SalesDetails.cs",
+              "RelativeToolTip": "BookHeaven\\SalesDetails.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAuwAIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:39:31.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DbClass.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\DbClass.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\CommonCoding\\DbClass.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\DbClass.cs",
+              "RelativeToolTip": "BookHeaven\\CommonCoding\\DbClass.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAAwPMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:58:51.242Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Billing.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Billing.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Billing.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:23:07.962Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Billing.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Billing.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Billing.cs",
+              "RelativeToolTip": "BookHeaven\\Billing.cs",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAAwNcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:15:14.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Login.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Login.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Login.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:01:31.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Login.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Login.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Login.cs",
+              "RelativeToolTip": "BookHeaven\\Login.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:11:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Dashboard.cs*",
+              "RelativeToolTip": "BookHeaven\\Admin_Dashboard.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:51:35.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Home.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Admin_Home.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Home.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Admin_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:13:50.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales_Clark_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sales_Clark_Dashboard.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Sales_Clark_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Sales_Clark_Dashboard.cs*",
+              "RelativeToolTip": "BookHeaven\\Sales_Clark_Dashboard.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:03:42.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer_Order_Details.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer_Order_Details.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Customer_Order_Details.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer_Order_Details.cs",
+              "RelativeToolTip": "BookHeaven\\Customer_Order_Details.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAqwBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:12:27.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Authors.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authors.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Authors.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Authors.cs",
+              "RelativeToolTip": "BookHeaven\\Authors.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAUwP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:23:17.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Report.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Report.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Report.cs",
+              "RelativeToolTip": "BookHeaven\\Report.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAAwFUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:30:59.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Supplier Type.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier Type.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Supplier Type.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier Type.cs",
+              "RelativeToolTip": "BookHeaven\\Supplier Type.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA6wFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:27:56.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Supplier.cs",
+              "RelativeToolTip": "BookHeaven\\Supplier.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAmwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:56:17.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StaffType.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\StaffType.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\StaffType.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\StaffType.cs",
+              "RelativeToolTip": "BookHeaven\\StaffType.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA6wEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:33:08.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Staff.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Staff.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Staff.cs",
+              "RelativeToolTip": "BookHeaven\\Staff.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAmwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:49:30.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "common_Class.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\common_Class.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\CommonCoding\\common_Class.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\common_Class.cs",
+              "RelativeToolTip": "BookHeaven\\CommonCoding\\common_Class.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:17:55.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "validation_Class.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\validation_Class.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\CommonCoding\\validation_Class.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\validation_Class.cs",
+              "RelativeToolTip": "BookHeaven\\CommonCoding\\validation_Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:28:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Hashing.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\Hashing.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\CommonCoding\\Hashing.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\CommonCoding\\Hashing.cs",
+              "RelativeToolTip": "BookHeaven\\CommonCoding\\Hashing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:50:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Customer_Order_Details.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer_Order_Details.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Customer_Order_Details.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer_Order_Details.cs [Design]",
+              "RelativeToolTip": "BookHeaven\\Customer_Order_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:14:52.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Admin_Home.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Home.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Admin_Home.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Admin_Home.cs",
+              "RelativeToolTip": "BookHeaven\\Admin_Home.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAANwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:37:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Customer_Order_Details.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer_Order_Details.Designer.cs",
+              "RelativeDocumentMoniker": "BookHeaven\\Customer_Order_Details.Designer.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Degree\\AD\\BookHeaven\\BookHeaven\\Customer_Order_Details.Designer.cs",
+              "RelativeToolTip": "BookHeaven\\Customer_Order_Details.Designer.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAkwPsBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:59:45.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
